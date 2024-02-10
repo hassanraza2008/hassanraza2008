@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw0s8NWOVUKWZglm_ZSskfbV&ust=1707656669741000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiGtoProIQDFQAAAAAdAAAAABAJ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanraza2008&label=Profile%20views&color=0e75b6&style=flat" alt="hassanraza2008" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap, PHP**
