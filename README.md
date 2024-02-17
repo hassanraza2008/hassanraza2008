@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, PHP**
 
-- 📝 I regularly write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
+- 📝 I occassionaly write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
 
 - 💬 Ask me about **Html, CSS, Java, Javascript**
 
