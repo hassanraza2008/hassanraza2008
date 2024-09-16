@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="550" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?rs=1&pid=ImgDetMain">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanraza2008&label=Profile%20views&color=0e75b6&style=flat" alt="hassanraza2008" /> </p>
 
 - 🌱 I’m currently learning **Next.js, TypeScript, TailWind**
