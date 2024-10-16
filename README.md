@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, TailWind**
 
-- 📝 I regularly write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
+- 📝 I occasionally write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
 
 - 💬 Ask me about **Html, CSS, Java, Javascript, React.js**
 
