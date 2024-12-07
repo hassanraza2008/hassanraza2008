@@ -10,7 +10,7 @@
 
 - 📝 I occasionally write articles on [https://www.techteresa.blogspot.com](https://www.techteresa.blogspot.com)
 
-- 💬 Ask me about **Html, CSS, Java, Javascript, React.js**
+- 💬 Ask me about **Java, Javascript & React.js**
 
 - 📫 How to reach me **mrismart70@gmail.com**
 
