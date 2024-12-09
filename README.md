@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Java, Javascript & React.js**
 
-- 📫 How to reach me **mrismart70@gmail.com**
-
 - ⚡ Fun fact **I am also a Content writer**
 
 <h3 align="left">Connect with me:</h3>
